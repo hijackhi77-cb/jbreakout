@@ -1,0 +1,7 @@
+apply plugin : 'application'
+mainClassName = "jbreakout.JBreakout"
+sourceSets.main.java.srcDirs = ['src']
+sourceSets.main.resources{
+	srcDirs = ["src/"]
+	includes = ["res/*.*"]
+}
