@@ -21,6 +21,10 @@ gradle run
 
 ### Screenshot of the game
 
-![Application Screenshot](./screen_shot_1.png)
+![Game Splash Screen](./screen_shot_1.png)
 
-![Application Screenshot](./screen_shot_2.png)
+![Game Playing Screenshot](./screen_shot_2.png)
+
+### Game flow control FSM
+
+![Flow Control FSM](./flow-control-fsm.png)
